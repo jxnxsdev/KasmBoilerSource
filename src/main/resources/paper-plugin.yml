@@ -1,0 +1,4 @@
+name: KasmBoilerSource
+version: '1.0-SNAPSHOT'
+main: de.jxnxsdev.kasmBoilerSource.KasmBoilerSource
+api-version: '1.21'
